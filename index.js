@@ -8,7 +8,7 @@ var memberPlays = "12344";
 var herandok = 0;
 var servers = {};
 const ytdl = require("ytdl-core");
-const token = 'NzMwNDIwNjUxNTc1NDc2Mjc1.XwgOag.H75VN6wU7HTn5h71mIeJYho3UMo';
+const token = 'NzMwNDIwNjUxNTc1NDc2Mjc1.XwXPPQ.rmIfksdDYyV9_BgbGrP5b'+'1iRcMo';
 bot.on('ready', () => {
     console.log('This bot is online!');
     bot.user.setActivity("пишите !help ё-маё");
